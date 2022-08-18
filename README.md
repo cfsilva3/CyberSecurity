@@ -26,3 +26,11 @@ Debian
 
 ##
 Ubuntu
+<div>
+  <img src=https://user-images.githubusercontent.com/61276577/185273946-1d7bcf38-7238-4e0d-bb1c-8b401e35a12f.JPG width= "600px" /> 
+</div>
+
+
+<div>
+  <img src=https://user-images.githubusercontent.com/61276577/185274040-f18dc3e3-bccb-4fae-9e33-80b56cc1e091.JPG width= "600px" /> 
+</div>

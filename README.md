@@ -12,7 +12,9 @@ Primeiros testes como ping e navegador ok.
 <div>
   <img src=https://user-images.githubusercontent.com/61276577/185271718-d6cce66a-93c9-4f1d-8087-85669bde1677.JPG width= "600px" /> 
 </div>
+
 ##
+
 <div>
   <img src=https://user-images.githubusercontent.com/61276577/185272596-7d7df4e3-d2d8-438c-bfd1-9a8838cd5a10.JPG width= "600px" /> 
 </div>

@@ -1,6 +1,5 @@
 # CyberSecurity
 
-##
 Repositório sobre meus exercícios em CyberSegurança! 📚🔓
 ##
 Primeiros testes na máquina virtual Ubuntu.

@@ -6,5 +6,9 @@ Criação de vm's Kali Linux, Debian e Ubuntu.
 Primeiros testes como ping e navegadores ok.
 
 <div>
-  <img src=https://user-images.githubusercontent.com/61276577/185266795-794852b3-1cc6-4b09-a895-117e313bcc90.jpg width= "600px" /> 
+  <img src=https://user-images.githubusercontent.com/61276577/185271721-2397e549-574f-4ddc-9307-8b33e8c21c96.JPG width= "600px" /> 
+</div>
+
+<div>
+  <img src=https://user-images.githubusercontent.com/61276577/185271718-d6cce66a-93c9-4f1d-8087-85669bde1677.JPG width= "600px" /> 
 </div>
